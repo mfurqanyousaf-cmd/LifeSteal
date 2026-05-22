@@ -8,11 +8,11 @@
 		"AFA"
 	],
 	"key": {
-		"A": "minecraft:beacon",
-		"B": "minecraft:elytra",
-		"C": "minecraft:recovery_compass",
+		"A": "minecraft:netherite_spear",
+		"B": "minecraft:enchanted_golden_apple",
+		"C": "minecraft:lodestone",
 		"D": "minecraft:heavy_core",
-		"E": "minecraft:conduit",
+		"E": "minecraft:end_crystal",
 		"F": "minecraft:skeleton_skull"
 	},
 	"result": {
