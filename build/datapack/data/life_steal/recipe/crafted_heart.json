@@ -8,8 +8,8 @@
 		"SNS"
 	],
 	"key": {
-		"S": "minecraft:nautilus_shell",
-		"N": "minecraft:netherite_ingot",
+		"S": "minecraft:totems",
+		"N": "minecraft:diamond_block",
 		"C": "minecraft:ominous_trial_key"
 	},
 	"result": {
